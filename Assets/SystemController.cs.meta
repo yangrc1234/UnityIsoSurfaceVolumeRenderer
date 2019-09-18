@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bcc5b5fc833913f498cc3582acc6dca0
+timeCreated: 1496898913
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - totalControl: {fileID: 114474297990448486, guid: c9c24691880725049b24e64ed91f8bcf,
+      type: 2}
+  - hint: {instanceID: 0}
+  - slicePlaneBehaviour: {instanceID: 0}
+  - reader: {instanceID: 0}
+  - mat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
